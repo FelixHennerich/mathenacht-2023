@@ -30,7 +30,7 @@ fun hatNachkommastellen(zahl: Double): Boolean {
 fun zweineun(){
     var z = 1
 
-    for(i in 26..74) {
+    for(i in 26..75) {
         var top = sqrt((75 - i).toDouble())
         var bottom = sqrt((i-25).toDouble())
 
